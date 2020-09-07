@@ -1,0 +1,1747 @@
+{
+    "344": {
+        "Constituency": "Reserved women's seat-25", 
+        "ID": "344", 
+        "MP": "Nargis Rahman"
+    }, 
+    "345": {
+        "Constituency": "Reserved women's seat-30", 
+        "ID": "345", 
+        "MP": "Gloria Jharna Sarker"
+    }, 
+    "346": {
+        "Constituency": "Reserved women's seat-39", 
+        "ID": "346", 
+        "MP": "Parveen Haque Sikder"
+    }, 
+    "347": {
+        "Constituency": "Reserved women's seat-26", 
+        "ID": "347", 
+        "MP": "Monira Sultana"
+    }, 
+    "340": {
+        "Constituency": "Reserved women's seat-21", 
+        "ID": "340", 
+        "MP": "Shamima Akter Khanam"
+    }, 
+    "341": {
+        "Constituency": "Reserved women's seat-47", 
+        "ID": "341", 
+        "MP": "Rowshan Ara Mannan"
+    }, 
+    "342": {
+        "Constituency": "Reserved women's seat-32", 
+        "ID": "342", 
+        "MP": "Zakia Tabassum"
+    }, 
+    "343": {
+        "Constituency": "Reserved women's seat-19", 
+        "ID": "343", 
+        "MP": "Sheikh Anne Rahman"
+    }, 
+    "348": {
+        "Constituency": "Reserved women's seat-10", 
+        "ID": "348", 
+        "MP": "Anjum Sultana"
+    }, 
+    "349": {
+        "Constituency": "Reserved women's seat-29", 
+        "ID": "349", 
+        "MP": "Kazi Kaniz Sultana"
+    }, 
+    "298": {
+        "Constituency": "Sirajganj-6", 
+        "ID": "298", 
+        "MP": "Hashibur Rahman Swapon"
+    }, 
+    "299": {
+        "Constituency": "Rangamati", 
+        "ID": "299", 
+        "MP": "Dipankar Talukdar"
+    }, 
+    "296": {
+        "Constituency": "Panchagarh-2", 
+        "ID": "296", 
+        "MP": "Md. Nurul Islam Sujon"
+    }, 
+    "297": {
+        "Constituency": "Joypurhat-2", 
+        "ID": "297", 
+        "MP": "Abu Sayeed Al Mahmood Swapon"
+    }, 
+    "294": {
+        "Constituency": "Bogra-6", 
+        "ID": "294", 
+        "MP": "Gulam Mohammad Siraj"
+    }, 
+    "295": {
+        "Constituency": "Nilphamari-3", 
+        "ID": "295", 
+        "MP": "Rana Mohammad Sohel"
+    }, 
+    "292": {
+        "Constituency": "Magura-2", 
+        "ID": "292", 
+        "MP": "Shri Biren Sikder"
+    }, 
+    "293": {
+        "Constituency": "Bandarban", 
+        "ID": "293", 
+        "MP": "Bir Bahadur Ushwe Sing"
+    }, 
+    "290": {
+        "Constituency": "Jhenaidah-2", 
+        "ID": "290", 
+        "MP": "Tahjib Alam Siddique"
+    }, 
+    "291": {
+        "Constituency": "Magura-1", 
+        "ID": "291", 
+        "MP": "Saifuzzaman Shikhor"
+    }, 
+    "199": {
+        "Constituency": "Narsingdi-3", 
+        "ID": "199", 
+        "MP": "Zahirul Haque Bhuiyan Mohan"
+    }, 
+    "198": {
+        "Constituency": "Dhaka-5", 
+        "ID": "198", 
+        "MP": "Habibur Rahman Mollah"
+    }, 
+    "195": {
+        "Constituency": "Kishoreganj-2", 
+        "ID": "195", 
+        "MP": "Nur Mohammad"
+    }, 
+    "194": {
+        "Constituency": "Mymensingh-7", 
+        "ID": "194", 
+        "MP": "Ruhul Amin Madani"
+    }, 
+    "197": {
+        "Constituency": "Manikganj-3", 
+        "ID": "197", 
+        "MP": "Zahid Maleque"
+    }, 
+    "196": {
+        "Constituency": "Netrokona-1", 
+        "ID": "196", 
+        "MP": "Manu Majumdar"
+    }, 
+    "191": {
+        "Constituency": "Laxmipur-4", 
+        "ID": "191", 
+        "MP": "Abdul Mannan"
+    }, 
+    "190": {
+        "Constituency": "Satkhira-1", 
+        "ID": "190", 
+        "MP": "Mustafa Lutfullah"
+    }, 
+    "193": {
+        "Constituency": "Chittagong-15", 
+        "ID": "193", 
+        "MP": "Abu Reza Muhammad Nezamuddin"
+    }, 
+    "192": {
+        "Constituency": "Chittagong-2", 
+        "ID": "192", 
+        "MP": "Syed Nazibul Bashar Maizvandary"
+    }, 
+    "270": {
+        "Constituency": "Naogaon-2", 
+        "ID": "270", 
+        "MP": "Md. Shahiduzzaman Sarker"
+    }, 
+    "271": {
+        "Constituency": "Barisal-2", 
+        "ID": "271", 
+        "MP": "Shah-e-Alam"
+    }, 
+    "272": {
+        "Constituency": "Patuakhali-3", 
+        "ID": "272", 
+        "MP": "SM Shahjada"
+    }, 
+    "273": {
+        "Constituency": "Barguna-1", 
+        "ID": "273", 
+        "MP": "Dhirendra Debnath Shambhu"
+    }, 
+    "274": {
+        "Constituency": "Khulna-3", 
+        "ID": "274", 
+        "MP": "Begum Monnuzan Sufian"
+    }, 
+    "275": {
+        "Constituency": "Dhaka-7", 
+        "ID": "275", 
+        "MP": "Haji Mohammad Salim"
+    }, 
+    "276": {
+        "Constituency": "Nilphamari-1", 
+        "ID": "276", 
+        "MP": "Aftab Uddin Sarkar"
+    }, 
+    "277": {
+        "Constituency": "Kurigram-1", 
+        "ID": "277", 
+        "MP": "Aslam Hossain Saudagar"
+    }, 
+    "278": {
+        "Constituency": "Meherpur-2", 
+        "ID": "278", 
+        "MP": "Mohammad Shahiduzzaman"
+    }, 
+    "279": {
+        "Constituency": "Chuadanga-1", 
+        "ID": "279", 
+        "MP": "Solaiman Haque Joarder (Selun)"
+    }, 
+    "108": {
+        "Constituency": "Kushtia-4", 
+        "ID": "108", 
+        "MP": "Selim Altaf Gorge"
+    }, 
+    "109": {
+        "Constituency": "Rajbari-2", 
+        "ID": "109", 
+        "MP": "Md. Zillul Hakim"
+    }, 
+    "102": {
+        "Constituency": "Noakhali-6", 
+        "ID": "102", 
+        "MP": "Ayesha Ferdaus"
+    }, 
+    "103": {
+        "Constituency": "Patuakhali-2", 
+        "ID": "103", 
+        "MP": "A. S. M. Feroz"
+    }, 
+    "100": {
+        "Constituency": "Pirojpur-3", 
+        "ID": "100", 
+        "MP": "Md. Rustum Ali Faraji"
+    }, 
+    "101": {
+        "Constituency": "Barisal-5", 
+        "ID": "101", 
+        "MP": "Zahid Faruk"
+    }, 
+    "106": {
+        "Constituency": "Gaibandha-2", 
+        "ID": "106", 
+        "MP": "Mahbub Ara Begum Gini"
+    }, 
+    "107": {
+        "Constituency": "Dinajpur-1", 
+        "ID": "107", 
+        "MP": "Manoranjon Shil Gopal"
+    }, 
+    "104": {
+        "Constituency": "Narayanganj-1", 
+        "ID": "104", 
+        "MP": "Golam Dastagir Gazi"
+    }, 
+    "105": {
+        "Constituency": "Madaripur-3", 
+        "ID": "105", 
+        "MP": "Abdus Sobhan Golap"
+    }, 
+    "39": {
+        "Constituency": "Cox's Bazar-1", 
+        "ID": "39", 
+        "MP": "Jafar Alam"
+    }, 
+    "38": {
+        "Constituency": "Rajshahi-6", 
+        "ID": "38", 
+        "MP": "Md. Shahriar Alam"
+    }, 
+    "33": {
+        "Constituency": "Feni-1", 
+        "ID": "33", 
+        "MP": "Shirin Akhter"
+    }, 
+    "32": {
+        "Constituency": "Cox's Bazar-4", 
+        "ID": "32", 
+        "MP": "Shahin Akhtar"
+    }, 
+    "31": {
+        "Constituency": "Bhola-1", 
+        "ID": "31", 
+        "MP": "Tofail Ahmed"
+    }, 
+    "30": {
+        "Constituency": "Maulvibazar-3", 
+        "ID": "30", 
+        "MP": "Nesar Ahmed"
+    }, 
+    "37": {
+        "Constituency": "Naogaon-6", 
+        "ID": "37", 
+        "MP": "Md. Israfil Alam"
+    }, 
+    "36": {
+        "Constituency": "Noakhali-2", 
+        "ID": "36", 
+        "MP": "Morshed Alam"
+    }, 
+    "35": {
+        "Constituency": "Chittagong-4", 
+        "ID": "35", 
+        "MP": "Didarul Alam"
+    }, 
+    "34": {
+        "Constituency": "Habiganj-4", 
+        "ID": "34", 
+        "MP": "Md. Mahbub Ali"
+    }, 
+    "339": {
+        "Constituency": "Reserved women's seat-27", 
+        "ID": "339", 
+        "MP": "Mst. Khaleda Khanum"
+    }, 
+    "338": {
+        "Constituency": "Reserved women's seat-33", 
+        "ID": "338", 
+        "MP": "Farida Khanam"
+    }, 
+    "335": {
+        "Constituency": "Reserved women's seat-48", 
+        "ID": "335", 
+        "MP": "Lutfun Nesa Khan"
+    }, 
+    "334": {
+        "Constituency": "Reserved women's seat-5", 
+        "ID": "334", 
+        "MP": "Naheed Ezaher Khan"
+    }, 
+    "337": {
+        "Constituency": "Reserved women's seat-18", 
+        "ID": "337", 
+        "MP": "Zakia Parvin Khanam"
+    }, 
+    "336": {
+        "Constituency": "Reserved women's seat-7", 
+        "ID": "336", 
+        "MP": "Waseqa Ayesha Khan"
+    }, 
+    "331": {
+        "Constituency": "Reserved women's seat-37", 
+        "ID": "331", 
+        "MP": "Adiba Anjum Mita"
+    }, 
+    "330": {
+        "Constituency": "Reserved women's seat-31", 
+        "ID": "330", 
+        "MP": "Kh. Momota Hena Lovely"
+    }, 
+    "333": {
+        "Constituency": "Reserved women's seat-17", 
+        "ID": "333", 
+        "MP": "Habiba Rahman Khan"
+    }, 
+    "332": {
+        "Constituency": "Reserved women's seat-42", 
+        "ID": "332", 
+        "MP": "Nadira Yeasmin Jolly"
+    }, 
+    "6": {
+        "Constituency": "Dhaka-20", 
+        "ID": "6", 
+        "MP": "Benzir Ahmed"
+    }, 
+    "99": {
+        "Constituency": "Dhaka-17", 
+        "ID": "99", 
+        "MP": "Akbar Hossain Pathan Farooque"
+    }, 
+    "98": {
+        "Constituency": "Comilla-4", 
+        "ID": "98", 
+        "MP": "Razee Mohammad Fakhrul"
+    }, 
+    "91": {
+        "Constituency": "Chittagong-6", 
+        "ID": "91", 
+        "MP": "A.B.M. Fazle Karim Chowdhury"
+    }, 
+    "90": {
+        "Constituency": "Noakhali-4", 
+        "ID": "90", 
+        "MP": "Mohammed Ekramul Karim Chowdhury"
+    }, 
+    "93": {
+        "Constituency": "Gazipur-5", 
+        "ID": "93", 
+        "MP": "Meher Afroze Chumki"
+    }, 
+    "92": {
+        "Constituency": "Khulna-5", 
+        "ID": "92", 
+        "MP": "Narayon Chandra Chanda"
+    }, 
+    "95": {
+        "Constituency": "Joypurhat-1", 
+        "ID": "95", 
+        "MP": "Shamsul Alam Dudu"
+    }, 
+    "94": {
+        "Constituency": "Munshiganj-3", 
+        "ID": "94", 
+        "MP": "Mrinal Kanti Das"
+    }, 
+    "97": {
+        "Constituency": "Mymensingh-4", 
+        "ID": "97", 
+        "MP": "Raushon Ershad"
+    }, 
+    "96": {
+        "Constituency": "Rangpur-3", 
+        "ID": "96", 
+        "MP": "Saad Ershad"
+    }, 
+    "238": {
+        "Constituency": "Dinajpur-3", 
+        "ID": "238", 
+        "MP": "Iqbalur Rahim"
+    }, 
+    "239": {
+        "Constituency": "Thakurgaon-3", 
+        "ID": "239", 
+        "MP": "Jahidur Rahman"
+    }, 
+    "234": {
+        "Constituency": "Lalmonirhat-3", 
+        "ID": "234", 
+        "MP": "GM Quader"
+    }, 
+    "235": {
+        "Constituency": "Noakhali-5", 
+        "ID": "235", 
+        "MP": "Obaidul Quader"
+    }, 
+    "236": {
+        "Constituency": "Natore-4", 
+        "ID": "236", 
+        "MP": "Md. Abdul Quddus"
+    }, 
+    "237": {
+        "Constituency": "Cox's Bazar-2", 
+        "ID": "237", 
+        "MP": "Asheq Ullah Rafiq"
+    }, 
+    "230": {
+        "Constituency": "Gaibandha-1", 
+        "ID": "230", 
+        "MP": "Shamim Haidar Patoary"
+    }, 
+    "231": {
+        "Constituency": "Naogaon-4", 
+        "ID": "231", 
+        "MP": "Md. Emaz Uddin Pramanik"
+    }, 
+    "232": {
+        "Constituency": "Pabna-5", 
+        "ID": "232", 
+        "MP": "Golam Faruk Khandakar Princ"
+    }, 
+    "233": {
+        "Constituency": "Panchagarh-1", 
+        "ID": "233", 
+        "MP": "Nazmul Haque Prodhan"
+    }, 
+    "1": {
+        "Constituency": "Barisal-1", 
+        "ID": "1", 
+        "MP": "Abul Hasanat Abdullah"
+    }, 
+    "146": {
+        "Constituency": "Mymensingh-8", 
+        "ID": "146", 
+        "MP": "Fakhrul Imam"
+    }, 
+    "147": {
+        "Constituency": "Sirajganj-4", 
+        "ID": "147", 
+        "MP": "Tanveer Imam"
+    }, 
+    "144": {
+        "Constituency": "Brahmanbaria-4", 
+        "ID": "144", 
+        "MP": "Anisul Huq"
+    }, 
+    "145": {
+        "Constituency": "Jhenaidah-1", 
+        "ID": "145", 
+        "MP": "Md. Abdul Hyee"
+    }, 
+    "142": {
+        "Constituency": "Narsingdi-4", 
+        "ID": "142", 
+        "MP": "Nurul Majid Mahmud Humayun"
+    }, 
+    "143": {
+        "Constituency": "Gazipur-1", 
+        "ID": "143", 
+        "MP": "A.K.M. Mozammel Huq"
+    }, 
+    "140": {
+        "Constituency": "Kishoreganj-5", 
+        "ID": "140", 
+        "MP": "Md. Afzal Hossain"
+    }, 
+    "141": {
+        "Constituency": "Meherpur-1", 
+        "ID": "141", 
+        "MP": "Farhad Hossain"
+    }, 
+    "148": {
+        "Constituency": "Kushtia-2", 
+        "ID": "148", 
+        "MP": "Hasanul Haq Inu"
+    }, 
+    "149": {
+        "Constituency": "Dhaka-2", 
+        "ID": "149", 
+        "MP": "Qamrul Islam"
+    }, 
+    "133": {
+        "Constituency": "Tangail-5", 
+        "ID": "133", 
+        "MP": "Md. Sanowar Hossain"
+    }, 
+    "132": {
+        "Constituency": "Kurigram-4", 
+        "ID": "132", 
+        "MP": "Md Zakir Hossain"
+    }, 
+    "131": {
+        "Constituency": "Lalmonirhat-1", 
+        "ID": "131", 
+        "MP": "Md. Motahar Hossain"
+    }, 
+    "130": {
+        "Constituency": "Bogra-4", 
+        "ID": "130", 
+        "MP": "Mosharraf Hossain"
+    }, 
+    "137": {
+        "Constituency": "Faridpur-1", 
+        "ID": "137", 
+        "MP": "Manjur Hossain"
+    }, 
+    "136": {
+        "Constituency": "Chittagong-1", 
+        "ID": "136", 
+        "MP": "Mosharraf Hossain"
+    }, 
+    "135": {
+        "Constituency": "Brahmanbaria-1", 
+        "ID": "135", 
+        "MP": "Bodruddoza Md. Farhad Hossain"
+    }, 
+    "134": {
+        "Constituency": "Tangail-7", 
+        "ID": "134", 
+        "MP": "Md. Akabbar Hossain"
+    }, 
+    "139": {
+        "Constituency": "Dhaka-4", 
+        "ID": "139", 
+        "MP": "Sayed Abu Hossain"
+    }, 
+    "138": {
+        "Constituency": "Faridpur-3", 
+        "ID": "138", 
+        "MP": "Khandaker Mosharraf Hossain"
+    }, 
+    "24": {
+        "Constituency": "Jessore-3", 
+        "ID": "24", 
+        "MP": "Kazi Nabil Ahmed"
+    }, 
+    "25": {
+        "Constituency": "Kurigram-2", 
+        "ID": "25", 
+        "MP": "Ponir Uddin Ahmed"
+    }, 
+    "26": {
+        "Constituency": "Lalmonirhat-2", 
+        "ID": "26", 
+        "MP": "Nuruzzaman Ahmed"
+    }, 
+    "27": {
+        "Constituency": "Mymensingh-2", 
+        "ID": "27", 
+        "MP": "Sharif Ahmed"
+    }, 
+    "20": {
+        "Constituency": "Chittagong-8", 
+        "ID": "20", 
+        "MP": "Moslem Uddin Ahmad"
+    }, 
+    "21": {
+        "Constituency": "Comilla-2", 
+        "ID": "21", 
+        "MP": "Selima Ahmad"
+    }, 
+    "22": {
+        "Constituency": "Maulvibazar-2", 
+        "ID": "22", 
+        "MP": "Sultan Md. Mansur Ahmad"
+    }, 
+    "23": {
+        "Constituency": "Dhaka-20", 
+        "ID": "23", 
+        "MP": "Benzir Ahmed"
+    }, 
+    "28": {
+        "Constituency": "Mymensingh-3", 
+        "ID": "28", 
+        "MP": "Nazim Uddin Ahmed"
+    }, 
+    "29": {
+        "Constituency": "Mymensingh-11", 
+        "ID": "29", 
+        "MP": "Kazim Uddin Ahmed"
+    }, 
+    "88": {
+        "Constituency": "Faridpur-2", 
+        "ID": "88", 
+        "MP": "Syeda Sajeda Chowdhury"
+    }, 
+    "89": {
+        "Constituency": "Faridpur-4", 
+        "ID": "89", 
+        "MP": "Mujibur Rahman Chowdhury"
+    }, 
+    "82": {
+        "Constituency": "Dinajpur-2", 
+        "ID": "82", 
+        "MP": "Khalid Mahmud Chowdhury"
+    }, 
+    "83": {
+        "Constituency": "Feni-3", 
+        "ID": "83", 
+        "MP": "Masud Uddin Chowdhury"
+    }, 
+    "80": {
+        "Constituency": "Brahmanbaria-3", 
+        "ID": "80", 
+        "MP": "R. A. M. Obaidul Muktadir Chowdhury"
+    }, 
+    "81": {
+        "Constituency": "Rangpur-2", 
+        "ID": "81", 
+        "MP": "Abul Kalam Md. Ahasanul Hoque Chowdhury"
+    }, 
+    "86": {
+        "Constituency": "Madaripur-1", 
+        "ID": "86", 
+        "MP": "Noor-E-Alam Chowdhury"
+    }, 
+    "87": {
+        "Constituency": "Dhaka-9", 
+        "ID": "87", 
+        "MP": "Saber Hossain Chowdhury"
+    }, 
+    "84": {
+        "Constituency": "Sherpur-2", 
+        "ID": "84", 
+        "MP": "Matia Chowdhury"
+    }, 
+    "85": {
+        "Constituency": "Munshiganj-1", 
+        "ID": "85", 
+        "MP": "Mahi B. Chowdhury"
+    }, 
+    "7": {
+        "Constituency": "Jessore-3", 
+        "ID": "7", 
+        "MP": "Kazi Nabil Ahmed"
+    }, 
+    "245": {
+        "Constituency": "Patuakhali-4", 
+        "ID": "245", 
+        "MP": "Md. Mahbubur Rahman"
+    }, 
+    "244": {
+        "Constituency": "Dinajpur-5", 
+        "ID": "244", 
+        "MP": "Mostafijur Rahman"
+    }, 
+    "247": {
+        "Constituency": "Dhaka-1", 
+        "ID": "247", 
+        "MP": "Salman F Rahman"
+    }, 
+    "246": {
+        "Constituency": "Manikganj-1", 
+        "ID": "246", 
+        "MP": "A.M Naimur Rahman"
+    }, 
+    "241": {
+        "Constituency": "Bogra-5", 
+        "ID": "241", 
+        "MP": "Md. Habibar Rahman"
+    }, 
+    "240": {
+        "Constituency": "Nilphamari-4", 
+        "ID": "240", 
+        "MP": "Ahsan Adelur Rahman"
+    }, 
+    "243": {
+        "Constituency": "Rajshahi-5", 
+        "ID": "243", 
+        "MP": "Mansur Rahman"
+    }, 
+    "242": {
+        "Constituency": "Rangpur-5", 
+        "ID": "242", 
+        "MP": "H. N. Ashequr Rahman"
+    }, 
+    "249": {
+        "Constituency": "Chittagong-3", 
+        "ID": "249", 
+        "MP": "Mahfuzur Rahaman"
+    }, 
+    "248": {
+        "Constituency": "Dhaka-19", 
+        "ID": "248", 
+        "MP": "Md. Enamur Rahaman"
+    }, 
+    "179": {
+        "Constituency": "Dhaka-13", 
+        "ID": "179", 
+        "MP": "Md. Sadek Khan"
+    }, 
+    "178": {
+        "Constituency": "Habiganj-2", 
+        "ID": "178", 
+        "MP": "Md. Abdul Majid Khan"
+    }, 
+    "177": {
+        "Constituency": "Tangail-3", 
+        "ID": "177", 
+        "MP": "Ataur Rahman Khan"
+    }, 
+    "176": {
+        "Constituency": "Dhaka-12", 
+        "ID": "176", 
+        "MP": "Asaduzzaman Khan"
+    }, 
+    "175": {
+        "Constituency": "Narsingdi-2", 
+        "ID": "175", 
+        "MP": "Anwarul Ashraf Khan"
+    }, 
+    "174": {
+        "Constituency": "Laxmipur-1", 
+        "ID": "174", 
+        "MP": "Anwar Hossain Khan"
+    }, 
+    "173": {
+        "Constituency": "Mymensingh-9", 
+        "ID": "173", 
+        "MP": "Anwarul Abedin Khan"
+    }, 
+    "172": {
+        "Constituency": "Jhenaidah-3", 
+        "ID": "172", 
+        "MP": "Shafiqul Azam Khan"
+    }, 
+    "171": {
+        "Constituency": "Jamalpur-2", 
+        "ID": "171", 
+        "MP": "Md. Faridul Haque Khan"
+    }, 
+    "170": {
+        "Constituency": "Tangail-4", 
+        "ID": "170", 
+        "MP": "Md. Hasan Imam Khan"
+    }, 
+    "253": {
+        "Constituency": "Narsingdi-5", 
+        "ID": "253", 
+        "MP": "Rajiuddin Ahmed Raju"
+    }, 
+    "182": {
+        "Constituency": "Madaripur-2", 
+        "ID": "182", 
+        "MP": "Shajahan Khan"
+    }, 
+    "183": {
+        "Constituency": "Comilla-5", 
+        "ID": "183", 
+        "MP": "Abdul Matin Khasru"
+    }, 
+    "180": {
+        "Constituency": "Sylhet-2", 
+        "ID": "180", 
+        "MP": "Mokabbir Khan"
+    }, 
+    "181": {
+        "Constituency": "Gopalganj-1", 
+        "ID": "181", 
+        "MP": "Muhammad Faruk Khan"
+    }, 
+    "186": {
+        "Constituency": "Narayanganj-3", 
+        "ID": "186", 
+        "MP": "Liyakot Hossain Khoka"
+    }, 
+    "187": {
+        "Constituency": "Noakhali-3", 
+        "ID": "187", 
+        "MP": "Md. Mamunur Rashid Kiron"
+    }, 
+    "184": {
+        "Constituency": "Netrokona-2", 
+        "ID": "184", 
+        "MP": "Ashraf Ali Khan Khasru"
+    }, 
+    "185": {
+        "Constituency": "Dhaka-18", 
+        "ID": "185", 
+        "MP": "Sahara Khatun"
+    }, 
+    "188": {
+        "Constituency": "Chittagong-11", 
+        "ID": "188", 
+        "MP": "M. Abdul Latif"
+    }, 
+    "189": {
+        "Constituency": "Kishoreganj-1", 
+        "ID": "189", 
+        "MP": "Syeda Zakia Noor Lipi"
+    }, 
+    "11": {
+        "Constituency": "Mymensingh-3", 
+        "ID": "11", 
+        "MP": "Nazim Uddin Ahmed"
+    }, 
+    "10": {
+        "Constituency": "Mymensingh-2", 
+        "ID": "10", 
+        "MP": "Sharif Ahmed"
+    }, 
+    "13": {
+        "Constituency": "Maulvibazar-3", 
+        "ID": "13", 
+        "MP": "Nesar Ahmed"
+    }, 
+    "12": {
+        "Constituency": "Mymensingh-11", 
+        "ID": "12", 
+        "MP": "Kazim Uddin Ahmed"
+    }, 
+    "15": {
+        "Constituency": "Cox's Bazar-4", 
+        "ID": "15", 
+        "MP": "Shahin Akhtar"
+    }, 
+    "14": {
+        "Constituency": "Bhola-1", 
+        "ID": "14", 
+        "MP": "Tofail Ahmed"
+    }, 
+    "17": {
+        "Constituency": "Habiganj-4", 
+        "ID": "17", 
+        "MP": "Md. Mahbub Ali"
+    }, 
+    "16": {
+        "Constituency": "Feni-1", 
+        "ID": "16", 
+        "MP": "Shirin Akhter"
+    }, 
+    "19": {
+        "Constituency": "Sylhet-4", 
+        "ID": "19", 
+        "MP": "Imran Ahmad"
+    }, 
+    "18": {
+        "Constituency": "Barisal-1", 
+        "ID": "18", 
+        "MP": "Abul Hasanat Abdullah"
+    }, 
+    "62": {
+        "Constituency": "Manikganj-2", 
+        "ID": "62", 
+        "MP": "Momotaz Begom"
+    }, 
+    "322": {
+        "Constituency": "Reserved women's seat-3", 
+        "ID": "322", 
+        "MP": "Shabnam Jahan"
+    }, 
+    "323": {
+        "Constituency": "Reserved women's seat-4", 
+        "ID": "323", 
+        "MP": "Suborna Mustafa"
+    }, 
+    "320": {
+        "Constituency": "Reserved women's seat-20", 
+        "ID": "320", 
+        "MP": "Aparajita Haque"
+    }, 
+    "321": {
+        "Constituency": "Reserved women's seat-40", 
+        "ID": "321", 
+        "MP": "Khodeza Nasreen Akhter Hossain"
+    }, 
+    "326": {
+        "Constituency": "Reserved women's seat-22", 
+        "ID": "326", 
+        "MP": "Fazilatun Nessa Indira"
+    }, 
+    "327": {
+        "Constituency": "Reserved women's seat-38", 
+        "ID": "327", 
+        "MP": "Ferdosi Islam"
+    }, 
+    "324": {
+        "Constituency": "Reserved women's seat-13", 
+        "ID": "324", 
+        "MP": "Shamsun Nahar"
+    }, 
+    "325": {
+        "Constituency": "Reserved women's seat-15", 
+        "ID": "325", 
+        "MP": "Sultana Nadira"
+    }, 
+    "328": {
+        "Constituency": "Reserved women's seat-49", 
+        "ID": "328", 
+        "MP": "Selina Islam"
+    }, 
+    "329": {
+        "Constituency": "Reserved women's seat-44", 
+        "ID": "329", 
+        "MP": "Salma Islam"
+    }, 
+    "201": {
+        "Constituency": "Netrokona-4", 
+        "ID": "201", 
+        "MP": "Rebecca Momin"
+    }, 
+    "200": {
+        "Constituency": "Dhaka-8", 
+        "ID": "200", 
+        "MP": "Rashed Khan Menon"
+    }, 
+    "203": {
+        "Constituency": "Sylhet-5", 
+        "ID": "203", 
+        "MP": "Hafiz Ahmed Mazumder"
+    }, 
+    "202": {
+        "Constituency": "Tangail-2", 
+        "ID": "202", 
+        "MP": "Choto Monir"
+    }, 
+    "205": {
+        "Constituency": "Dhaka-15", 
+        "ID": "205", 
+        "MP": "Kamal Ahmed Majumder"
+    }, 
+    "204": {
+        "Constituency": "Khulna-4", 
+        "ID": "204", 
+        "MP": "Abdus Salam Murshedy"
+    }, 
+    "207": {
+        "Constituency": "Chandpur-3", 
+        "ID": "207", 
+        "MP": "Dipu Moni"
+    }, 
+    "206": {
+        "Constituency": "Dhaka-16", 
+        "ID": "206", 
+        "MP": "Md. Elias Uddin Mollah"
+    }, 
+    "209": {
+        "Constituency": "Bogra-1", 
+        "ID": "209", 
+        "MP": "Abdul Mannan"
+    }, 
+    "208": {
+        "Constituency": "Naogaon-1", 
+        "ID": "208", 
+        "MP": "Sadhan Chandra Majumder"
+    }, 
+    "77": {
+        "Constituency": "Chittagong-14", 
+        "ID": "77", 
+        "MP": "Mohammad Nazrul Islam Chowdhury"
+    }, 
+    "76": {
+        "Constituency": "Chittagong-13", 
+        "ID": "76", 
+        "MP": "Saifuzzaman Chowdhury"
+    }, 
+    "75": {
+        "Constituency": "Rangpur-6", 
+        "ID": "75", 
+        "MP": "Shirin Sharmin Chaudhury"
+    }, 
+    "74": {
+        "Constituency": "Chittagong-12", 
+        "ID": "74", 
+        "MP": "Shamsul Hoque Chowdhury"
+    }, 
+    "73": {
+        "Constituency": "Gaibandha-4", 
+        "ID": "73", 
+        "MP": "Monowar Hossain Chowdhury"
+    }, 
+    "72": {
+        "Constituency": "Chittagong-9", 
+        "ID": "72", 
+        "MP": "Mohibul Hasan Chowdhury"
+    }, 
+    "71": {
+        "Constituency": "Comilla-8", 
+        "ID": "71", 
+        "MP": "Nasimul Alam Chowdhury"
+    }, 
+    "70": {
+        "Constituency": "Sylhet-3", 
+        "ID": "70", 
+        "MP": "Mahmud Us Samad Chowdhury"
+    }, 
+    "79": {
+        "Constituency": "Rajshahi-1", 
+        "ID": "79", 
+        "MP": "Omor Faruk Chowdhury"
+    }, 
+    "78": {
+        "Constituency": "Bhola-3", 
+        "ID": "78", 
+        "MP": "Nurunnabi Chowdhury"
+    }, 
+    "2": {
+        "Constituency": "Sylhet-4", 
+        "ID": "2", 
+        "MP": "Imran Ahmad"
+    }, 
+    "8": {
+        "Constituency": "Kurigram-2", 
+        "ID": "8", 
+        "MP": "Ponir Uddin Ahmed"
+    }, 
+    "68": {
+        "Constituency": "Brahmanbaria-5", 
+        "ID": "68", 
+        "MP": "Mohammad Ebadul Karim Bulbul"
+    }, 
+    "120": {
+        "Constituency": "Jamalpur-4", 
+        "ID": "120", 
+        "MP": "Murad Hasan"
+    }, 
+    "121": {
+        "Constituency": "Gopalganj-3", 
+        "ID": "121", 
+        "MP": "Sheikh Hasina"
+    }, 
+    "122": {
+        "Constituency": "Kishoreganj-6", 
+        "ID": "122", 
+        "MP": "Nazmul Hassan"
+    }, 
+    "123": {
+        "Constituency": "Satkhira-4", 
+        "ID": "123", 
+        "MP": "S. M. Jaglul Hayder"
+    }, 
+    "124": {
+        "Constituency": "Feni-2", 
+        "ID": "124", 
+        "MP": "Nizam Uddin Hazari"
+    }, 
+    "125": {
+        "Constituency": "Comilla-11", 
+        "ID": "125", 
+        "MP": "Md. Mazibul Hoque"
+    }, 
+    "126": {
+        "Constituency": "Jamalpur-5", 
+        "ID": "126", 
+        "MP": "Mozaffar Hossain"
+    }, 
+    "127": {
+        "Constituency": "Pirojpur-2", 
+        "ID": "127", 
+        "MP": "Anwar Hossain"
+    }, 
+    "128": {
+        "Constituency": "Bagerhat-4", 
+        "ID": "128", 
+        "MP": "Mozammel Hossain"
+    }, 
+    "129": {
+        "Constituency": "Pabna-3", 
+        "ID": "129", 
+        "MP": "Md. Mokbul Hossain"
+    }, 
+    "319": {
+        "Constituency": "Reserved women's seat-50", 
+        "ID": "319", 
+        "MP": "Rumeen Farhana"
+    }, 
+    "318": {
+        "Constituency": "Reserved women's seat-11", 
+        "ID": "318", 
+        "MP": "Aroma Dutta"
+    }, 
+    "313": {
+        "Constituency": "Bagerhat-1", 
+        "ID": "313", 
+        "MP": "Sheikh Helal Uddin"
+    }, 
+    "312": {
+        "Constituency": "Jessore-2", 
+        "ID": "312", 
+        "MP": "Nasir Uddin"
+    }, 
+    "311": {
+        "Constituency": "Maulvibazar-1", 
+        "ID": "311", 
+        "MP": "Md. Shahab Uddin"
+    }, 
+    "310": {
+        "Constituency": "Mymensingh-6", 
+        "ID": "310", 
+        "MP": "Md. Muslem Uddin"
+    }, 
+    "317": {
+        "Constituency": "Habiganj-3", 
+        "ID": "317", 
+        "MP": "Md. Abu Zahir"
+    }, 
+    "316": {
+        "Constituency": "Munshiganj-2", 
+        "ID": "316", 
+        "MP": "Sagufta Yasmin"
+    }, 
+    "315": {
+        "Constituency": "Netrokona-3", 
+        "ID": "315", 
+        "MP": "Ashim Kumar Ukil"
+    }, 
+    "314": {
+        "Constituency": "Jessore-1", 
+        "ID": "314", 
+        "MP": "Sk. Afil Uddin"
+    }, 
+    "3": {
+        "Constituency": "Chittagong-8", 
+        "ID": "3", 
+        "MP": "Moslem Uddin Ahmad"
+    }, 
+    "60": {
+        "Constituency": "Comilla-6", 
+        "ID": "60", 
+        "MP": "A.K.M. Bahauddin"
+    }, 
+    "61": {
+        "Constituency": "Natore-1", 
+        "ID": "61", 
+        "MP": "Shahidul Islam Bakul"
+    }, 
+    "258": {
+        "Constituency": "Barisal-6", 
+        "ID": "258", 
+        "MP": "Nasreen Jahan Ratna"
+    }, 
+    "259": {
+        "Constituency": "Tangail-1", 
+        "ID": "259", 
+        "MP": "Muhammad Abdur Razzaque"
+    }, 
+    "64": {
+        "Constituency": "Jessore-5", 
+        "ID": "64", 
+        "MP": "Shawpan Bhattacharjee"
+    }, 
+    "65": {
+        "Constituency": "Comilla-1", 
+        "ID": "65", 
+        "MP": "Mohammad Shubid Ali Bhuiyan"
+    }, 
+    "66": {
+        "Constituency": "Brahmanbaria-2", 
+        "ID": "66", 
+        "MP": "Ukil Abdul Sattar Bhuiyan"
+    }, 
+    "67": {
+        "Constituency": "Khulna-1", 
+        "ID": "67", 
+        "MP": "Panchanan Biswas"
+    }, 
+    "252": {
+        "Constituency": "Dhaka-11", 
+        "ID": "252", 
+        "MP": "A.K.M. Rahmatullah"
+    }, 
+    "69": {
+        "Constituency": "Chittagong-16", 
+        "ID": "69", 
+        "MP": "Mustafizur Rahaman Chowdhury"
+    }, 
+    "250": {
+        "Constituency": "Chandpur-4", 
+        "ID": "250", 
+        "MP": "Muhammad Shafiqur Rahman"
+    }, 
+    "251": {
+        "Constituency": "Sunamganj-4", 
+        "ID": "251", 
+        "MP": "Pir Fazlur Rahman"
+    }, 
+    "256": {
+        "Constituency": "Dhaka-6", 
+        "ID": "256", 
+        "MP": "Kazi Firoz Rashid"
+    }, 
+    "257": {
+        "Constituency": "Sunamganj-1", 
+        "ID": "257", 
+        "MP": "Mouazzam Hossain Ratan"
+    }, 
+    "254": {
+        "Constituency": "Rangpur-1", 
+        "ID": "254", 
+        "MP": "Moshiur Rahman Ranga"
+    }, 
+    "255": {
+        "Constituency": "Chapai Nawabganj-3", 
+        "ID": "255", 
+        "MP": "Harunur Rashid"
+    }, 
+    "168": {
+        "Constituency": "Pirojpur-1", 
+        "ID": "168", 
+        "MP": "SM Rezaul Karim"
+    }, 
+    "169": {
+        "Constituency": "Mymensingh-5", 
+        "ID": "169", 
+        "MP": "K. M. Khalid"
+    }, 
+    "164": {
+        "Constituency": "Pabna-2", 
+        "ID": "164", 
+        "MP": "Ahmed Firoz Kabir"
+    }, 
+    "165": {
+        "Constituency": "Comilla-10", 
+        "ID": "165", 
+        "MP": "A.H.M Mustafa Kamal"
+    }, 
+    "166": {
+        "Constituency": "Laxmipur-3", 
+        "ID": "166", 
+        "MP": "A.K.M. Shajahan Kamal"
+    }, 
+    "167": {
+        "Constituency": "Cox's Bazar-3", 
+        "ID": "167", 
+        "MP": "Shaimum Sarwar Kamal"
+    }, 
+    "160": {
+        "Constituency": "Bhola-4", 
+        "ID": "160", 
+        "MP": "Abdullah Al Islam Jakob"
+    }, 
+    "161": {
+        "Constituency": "Khulna-2", 
+        "ID": "161", 
+        "MP": "Sheikh Salahuddin Jewel"
+    }, 
+    "162": {
+        "Constituency": "Bogra-2", 
+        "ID": "162", 
+        "MP": "Shariful Islam Jinnah"
+    }, 
+    "163": {
+        "Constituency": "Naogaon-5", 
+        "ID": "163", 
+        "MP": "Nizam Uddin Jalil John"
+    }, 
+    "9": {
+        "Constituency": "Lalmonirhat-2", 
+        "ID": "9", 
+        "MP": "Nuruzzaman Ahmed"
+    }, 
+    "216": {
+        "Constituency": "Gaibandha-5", 
+        "ID": "216", 
+        "MP": "Fazle Rabbi Miah"
+    }, 
+    "217": {
+        "Constituency": "Sirajganj-2", 
+        "ID": "217", 
+        "MP": "Md. Habibe Millat"
+    }, 
+    "214": {
+        "Constituency": "Kurigram-3", 
+        "ID": "214", 
+        "MP": "MA Matin"
+    }, 
+    "215": {
+        "Constituency": "Patuakhali-1", 
+        "ID": "215", 
+        "MP": "Shahjahan Mia"
+    }, 
+    "212": {
+        "Constituency": "Sunamganj-5", 
+        "ID": "212", 
+        "MP": "Mohibur Rahman Manik"
+    }, 
+    "213": {
+        "Constituency": "Sunamganj-3", 
+        "ID": "213", 
+        "MP": "M.A. Mannan"
+    }, 
+    "210": {
+        "Constituency": "Chittagong-5", 
+        "ID": "210", 
+        "MP": "Anisul Islam Mahmud"
+    }, 
+    "211": {
+        "Constituency": "Chittagong-7", 
+        "ID": "211", 
+        "MP": "Mohammad Hasan Mahmud"
+    }, 
+    "218": {
+        "Constituency": "Sylhet-1", 
+        "ID": "218", 
+        "MP": "AK Abdul Momen"
+    }, 
+    "219": {
+        "Constituency": "Sirajganj-5", 
+        "ID": "219", 
+        "MP": "Abdul Majid Mondol"
+    }, 
+    "289": {
+        "Constituency": "Natore-2", 
+        "ID": "289", 
+        "MP": "Md. Shafiqul Islam Shimul"
+    }, 
+    "288": {
+        "Constituency": "Chapai Nawabganj-1", 
+        "ID": "288", 
+        "MP": "Shamil Uddin Ahmed Shimul"
+    }, 
+    "4": {
+        "Constituency": "Comilla-2", 
+        "ID": "4", 
+        "MP": "Selima Ahmad"
+    }, 
+    "281": {
+        "Constituency": "Gazipur-3", 
+        "ID": "281", 
+        "MP": "Iqbal Hossain Sabuj"
+    }, 
+    "280": {
+        "Constituency": "Thakurgaon-1", 
+        "ID": "280", 
+        "MP": "Ramesh Chadra Sen"
+    }, 
+    "283": {
+        "Constituency": "Sunamganj-2", 
+        "ID": "283", 
+        "MP": "Joya Sengupta"
+    }, 
+    "282": {
+        "Constituency": "Gopalganj-2", 
+        "ID": "282", 
+        "MP": "Sheikh Fazlul Karim Selim"
+    }, 
+    "285": {
+        "Constituency": "Shariatpur-2", 
+        "ID": "285", 
+        "MP": "AKM Enamul Haque Shamim"
+    }, 
+    "284": {
+        "Constituency": "Maulvibazar-4", 
+        "ID": "284", 
+        "MP": "Md. Abdus Shahid"
+    }, 
+    "287": {
+        "Constituency": "Pabna-4", 
+        "ID": "287", 
+        "MP": "Shamsur Rahman Sherif"
+    }, 
+    "286": {
+        "Constituency": "Habiganj-1", 
+        "ID": "286", 
+        "MP": "Gazi Mohammad Shahnawaz"
+    }, 
+    "263": {
+        "Constituency": "Satkhira-2", 
+        "ID": "263", 
+        "MP": "Mir Mostaque Ahmed Robi"
+    }, 
+    "262": {
+        "Constituency": "Barguna-2", 
+        "ID": "262", 
+        "MP": "Showkat Hasanur Rahman Rimon"
+    }, 
+    "261": {
+        "Constituency": "Gazipur-4", 
+        "ID": "261", 
+        "MP": "Simeen Hussain (Rimi)"
+    }, 
+    "260": {
+        "Constituency": "Shariatpur-3", 
+        "ID": "260", 
+        "MP": "Nahim Razzaq"
+    }, 
+    "267": {
+        "Constituency": "Jessore-6", 
+        "ID": "267", 
+        "MP": "Ismat Ara Sadique"
+    }, 
+    "266": {
+        "Constituency": "Gazipur-2", 
+        "ID": "266", 
+        "MP": "Md. Zahid Ahsan Russel"
+    }, 
+    "265": {
+        "Constituency": "Chandpur-2", 
+        "ID": "265", 
+        "MP": "Nurul Amin Ruhul"
+    }, 
+    "264": {
+        "Constituency": "Jessore-4", 
+        "ID": "264", 
+        "MP": "Ranajit Kumar Roy"
+    }, 
+    "269": {
+        "Constituency": "Gaibandha-3", 
+        "ID": "269", 
+        "MP": "Eunus Ali Sarkar"
+    }, 
+    "268": {
+        "Constituency": "Dinajpur-6", 
+        "ID": "268", 
+        "MP": "Md. Sibli Sadiqe"
+    }, 
+    "59": {
+        "Constituency": "Narayanganj-2", 
+        "ID": "59", 
+        "MP": "Md. Nazrul Islam Babu"
+    }, 
+    "58": {
+        "Constituency": "Mymensingh-10", 
+        "ID": "58", 
+        "MP": "Fahmi Gulandaz Babel"
+    }, 
+    "55": {
+        "Constituency": "Bogra-7", 
+        "ID": "55", 
+        "MP": "Rezaul Karim Bablu"
+    }, 
+    "54": {
+        "Constituency": "Sirajganj-3", 
+        "ID": "54", 
+        "MP": "Abdul Aziz"
+    }, 
+    "57": {
+        "Constituency": "Rajshahi-2", 
+        "ID": "57", 
+        "MP": "Fazle Hossain Badsha"
+    }, 
+    "56": {
+        "Constituency": "Khulna-6", 
+        "ID": "56", 
+        "MP": "Akhteruzzaman Babu"
+    }, 
+    "51": {
+        "Constituency": "Bhola-2", 
+        "ID": "51", 
+        "MP": "Ali Azam"
+    }, 
+    "50": {
+        "Constituency": "Jamalpur-1", 
+        "ID": "50", 
+        "MP": "Abul Kalam Azad"
+    }, 
+    "53": {
+        "Constituency": "Chuadanga-2", 
+        "ID": "53", 
+        "MP": "Md. Ali Azgar"
+    }, 
+    "52": {
+        "Constituency": "Jamalpur-3", 
+        "ID": "52", 
+        "MP": "Mirza Azam"
+    }, 
+    "63": {
+        "Constituency": "Netrokona-5", 
+        "ID": "63", 
+        "MP": "Waresat Hussain Belal"
+    }, 
+    "115": {
+        "Constituency": "Satkhira-3", 
+        "ID": "115", 
+        "MP": "A. F. M. Ruhal Haque"
+    }, 
+    "114": {
+        "Constituency": "Dhaka-14", 
+        "ID": "114", 
+        "MP": "Md. Aslamul Haque"
+    }, 
+    "117": {
+        "Constituency": "Kishoreganj-3", 
+        "ID": "117", 
+        "MP": "Md. Mujibul Haque"
+    }, 
+    "116": {
+        "Constituency": "Sherpur-3", 
+        "ID": "116", 
+        "MP": "A.K.M. Fazlul Haque"
+    }, 
+    "111": {
+        "Constituency": "Kushtia-3", 
+        "ID": "111", 
+        "MP": "Md. Mahbubul Alam Hanif"
+    }, 
+    "110": {
+        "Constituency": "Dhaka-3", 
+        "ID": "110", 
+        "MP": "Nasrul Hamid"
+    }, 
+    "113": {
+        "Constituency": "Narail-1", 
+        "ID": "113", 
+        "MP": "Md. Kabirul Haque"
+    }, 
+    "112": {
+        "Constituency": "Rajshahi-4", 
+        "ID": "112", 
+        "MP": "Enamul Haque"
+    }, 
+    "119": {
+        "Constituency": "Comilla-3", 
+        "ID": "119", 
+        "MP": "Yussuf Abdullah Harun"
+    }, 
+    "118": {
+        "Constituency": "Jhalokati-1", 
+        "ID": "118", 
+        "MP": "Bazlul Haque Haroon"
+    }, 
+    "308": {
+        "Constituency": "Pabna-1", 
+        "ID": "308", 
+        "MP": "Md. Shamsul Haque Tuku"
+    }, 
+    "309": {
+        "Constituency": "Rajshahi-3", 
+        "ID": "309", 
+        "MP": "Md. Ayeen Uddin"
+    }, 
+    "300": {
+        "Constituency": "Bogra-3", 
+        "ID": "300", 
+        "MP": "Md. Nurul Islam Talukder"
+    }, 
+    "301": {
+        "Constituency": "Bagerhat-2", 
+        "ID": "301", 
+        "MP": "Sheikh Tanmoy"
+    }, 
+    "302": {
+        "Constituency": "Dhaka-10", 
+        "ID": "302", 
+        "MP": "Sheikh Fazle Noor Taposh"
+    }, 
+    "303": {
+        "Constituency": "Naogaon-3", 
+        "ID": "303", 
+        "MP": "Mohd. Salim Uddin Tarafder"
+    }, 
+    "304": {
+        "Constituency": "Kishoreganj-4", 
+        "ID": "304", 
+        "MP": "Rejwan Ahammad Taufiq"
+    }, 
+    "305": {
+        "Constituency": "Barisal-3", 
+        "ID": "305", 
+        "MP": "Golam Kibria Tipu"
+    }, 
+    "306": {
+        "Constituency": "Tangail-6", 
+        "ID": "306", 
+        "MP": "Ahasanul Islam Titu"
+    }, 
+    "307": {
+        "Constituency": "Khagrachhari", 
+        "ID": "307", 
+        "MP": "Kujendra Lal Tripura"
+    }, 
+    "229": {
+        "Constituency": "Natore-3", 
+        "ID": "229", 
+        "MP": "Zunaid Ahmed Palak"
+    }, 
+    "228": {
+        "Constituency": "Narayanganj-4", 
+        "ID": "228", 
+        "MP": "Shamim Osman"
+    }, 
+    "227": {
+        "Constituency": "Narayanganj-5", 
+        "ID": "227", 
+        "MP": "A K M Salim Osman"
+    }, 
+    "226": {
+        "Constituency": "Nilphamari-2", 
+        "ID": "226", 
+        "MP": "Asaduzzaman Noor"
+    }, 
+    "225": {
+        "Constituency": "Barisal-4", 
+        "ID": "225", 
+        "MP": "Pankaj Nath"
+    }, 
+    "224": {
+        "Constituency": "Sylhet-6", 
+        "ID": "224", 
+        "MP": "Nurul Islam Nahid"
+    }, 
+    "223": {
+        "Constituency": "Bagerhat-3", 
+        "ID": "223", 
+        "MP": "Habibun Nahar"
+    }, 
+    "222": {
+        "Constituency": "Sirajganj-1", 
+        "ID": "222", 
+        "MP": "Mohammad Nasim"
+    }, 
+    "221": {
+        "Constituency": "Rangpur-4", 
+        "ID": "221", 
+        "MP": "Tipu Munshi"
+    }, 
+    "220": {
+        "Constituency": "Narail-2", 
+        "ID": "220", 
+        "MP": "Mashrafe Mortaza"
+    }, 
+    "151": {
+        "Constituency": "Brahmanbaria-6", 
+        "ID": "151", 
+        "MP": "A B Tajul Islam"
+    }, 
+    "150": {
+        "Constituency": "Tangail-8", 
+        "ID": "150", 
+        "MP": "Joaherul Islam"
+    }, 
+    "153": {
+        "Constituency": "Comilla-9", 
+        "ID": "153", 
+        "MP": "Md.Tajul Islam"
+    }, 
+    "152": {
+        "Constituency": "Noakhali-1", 
+        "ID": "152", 
+        "MP": "H.M. Ibrahim"
+    }, 
+    "155": {
+        "Constituency": "Narsingdi-1", 
+        "ID": "155", 
+        "MP": "Muhammad Nazrul Islam"
+    }, 
+    "154": {
+        "Constituency": "Chandpur-5", 
+        "ID": "154", 
+        "MP": "Rafiqul Islam"
+    }, 
+    "157": {
+        "Constituency": "Thakurgaon-2", 
+        "ID": "157", 
+        "MP": "Md. Dabirul Islam"
+    }, 
+    "156": {
+        "Constituency": "Chapai Nawabganj-2", 
+        "ID": "156", 
+        "MP": "Md. Aminul Islam"
+    }, 
+    "159": {
+        "Constituency": "Kushtia-1", 
+        "ID": "159", 
+        "MP": "AKM Sarwar Jahan"
+    }, 
+    "158": {
+        "Constituency": "Laxmipur-2", 
+        "ID": "158", 
+        "MP": "Mohammad Shahid Islam"
+    }, 
+    "48": {
+        "Constituency": "Comilla-7", 
+        "ID": "48", 
+        "MP": "Md. Ali Ashraf"
+    }, 
+    "49": {
+        "Constituency": "Sherpur-1", 
+        "ID": "49", 
+        "MP": "Md. Atiur Rahman Atik"
+    }, 
+    "46": {
+        "Constituency": "Shariatpur-1", 
+        "ID": "46", 
+        "MP": "Iqbal Hossain Apu"
+    }, 
+    "47": {
+        "Constituency": "Mymensingh-1", 
+        "ID": "47", 
+        "MP": "Jewel Areng"
+    }, 
+    "44": {
+        "Constituency": "Jhalokati-2", 
+        "ID": "44", 
+        "MP": "Amir Hossain Amu"
+    }, 
+    "45": {
+        "Constituency": "Jhenaidah-4", 
+        "ID": "45", 
+        "MP": "Md. Anwarul Azim Anar"
+    }, 
+    "42": {
+        "Constituency": "Chandpur-1", 
+        "ID": "42", 
+        "MP": "Mahiuddin Khan Alamgir"
+    }, 
+    "43": {
+        "Constituency": "Chittagong-10", 
+        "ID": "43", 
+        "MP": "Md. Afsarul Amin"
+    }, 
+    "40": {
+        "Constituency": "Dinajpur-4", 
+        "ID": "40", 
+        "MP": "Abul Hassan Mahmood Ali"
+    }, 
+    "41": {
+        "Constituency": "Rajbari-1", 
+        "ID": "41", 
+        "MP": "Kazi Keramat Ali"
+    }, 
+    "5": {
+        "Constituency": "Maulvibazar-2", 
+        "ID": "5", 
+        "MP": "Sultan Md. Mansur Ahmad"
+    }
+}
